@@ -1,0 +1,6 @@
+@AsyncVsAwait_FileProcessor_HostAddress = http://localhost:5224
+
+GET {{AsyncVsAwait_FileProcessor_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

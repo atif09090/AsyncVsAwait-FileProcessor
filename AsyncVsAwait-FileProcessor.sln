@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncVsAwait-FileProcessor", "AsyncVsAwait-FileProcessor\AsyncVsAwait-FileProcessor.csproj", "{8645A311-D2E8-45A9-AF65-DFC1AE4C7BE1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8645A311-D2E8-45A9-AF65-DFC1AE4C7BE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8645A311-D2E8-45A9-AF65-DFC1AE4C7BE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8645A311-D2E8-45A9-AF65-DFC1AE4C7BE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8645A311-D2E8-45A9-AF65-DFC1AE4C7BE1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F26B6EC8-7344-4138-A952-B260DA1D8A4B}
+	EndGlobalSection
+EndGlobal
